@@ -2,7 +2,7 @@
     "name": "du-flutter-ultimate-package",
     "displayName": "DU Ultimate Flutter Extension Pack",
     "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -17,7 +17,7 @@
         "dart-code.dart-code",
         "dart-code.flutter",
         "circlecodesolution.ccs-flutter-color",
-        "jeroen-meijer.pubspec-assist",
+        "everettjf.pubspec-dependency-search",
         "aaron-bond.better-comments",
         "coenraads.bracket-pair-colorizer",
         "pkief.material-icon-theme",
@@ -36,7 +36,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack.git"
+        "url": "https://github.com/betrider/dart-class-generate-extension-.git"
     },
     "keywords": [
         "Flutter",
@@ -44,9 +44,5 @@
         "Snippets",
         "Extension Packs"
     ],
-    "homepage": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack",
-    "bugs": {
-        "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/issues",
-        "email": "csengineer.maruf@gmail.com"
-    }
+    "homepage": "https://github.com/betrider/vscodeUltimatePackage"
 }
