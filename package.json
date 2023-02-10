@@ -2,7 +2,7 @@
     "name": "du-flutter-ultimate-package",
     "displayName": "DU Ultimate Flutter Extension Pack",
     "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -32,6 +32,8 @@
         "normanstypczynskipublisher.gqlformatter",
         "kisstkondoros.vscode-gutter-preview",
         "streetsidesoftware.code-spell-checker",
+        "stxr.iconfont-preview",
+        "robert-brunhage.flutter-riverpod-snippets",
         "betrider.du-dart-class-generator"
     ],
     "repository": {
